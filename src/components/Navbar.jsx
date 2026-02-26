@@ -70,7 +70,6 @@ export default function Navbar() {
                     <li><a className='hover:text-gray-500 dark:hover:text-gray-300 transition' href="#top">Home</a></li>
                     <li><a className='hover:text-gray-500 dark:hover:text-gray-300 transition' href="#about">About me</a></li>
                     <li><a className='hover:text-gray-500 dark:hover:text-gray-300 transition' href="#services">Services</a></li>
-                    <li><a className='hover:text-gray-500 dark:hover:text-gray-300 transition' href="#work">My Work</a></li>
                     <li><a className='hover:text-gray-500 dark:hover:text-gray-300 transition' href="#contact">Contact me</a></li>
                 </ul>
 
@@ -103,7 +102,6 @@ export default function Navbar() {
                     <li><a href="#top" onClick={closeMenu}>Home</a></li>
                     <li><a href="#about" onClick={closeMenu}>About me</a></li>
                     <li><a href="#services" onClick={closeMenu}>Services</a></li>
-                    <li><a href="#work" onClick={closeMenu}>My Work</a></li>
                     <li><a href="#contact" onClick={closeMenu}>Contact me</a></li>
                 </ul>
             </nav>

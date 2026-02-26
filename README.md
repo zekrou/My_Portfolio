@@ -1,40 +1,36 @@
-# Eliana - React JS Portfolio Template
-#### Preview
+echo "# My Portfolio - Zakaria Naidja
 
- - [Demo](https://themewagon.github.io/eliana-react/)
+> Based on [Eliana - React JS Portfolio Template](https://themewagon.com/themes/eliana-react/) by PrebuiltUI
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/eliana-react/)
+## 🚀 Getting Started
 
-## Getting Started
+### 1. Clone Repository
+\`\`\`bash
+git clone https://github.com/zekrou/My_Portfolio.git
+\`\`\`
 
-1. Clone Repository
-```
-git clone https://github.com/themewagon/eliana-react.git
-```
-2. Install Dependencies
-```
-npm i
-```
-3. Run the development server:
+### 2. Install Dependencies
+\`\`\`bash
+npm install
+\`\`\`
 
-```bash
+### 3. Run the development server
+\`\`\`bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+\`\`\`
 
-## Author 
-```
-Design and code is completely written by PrebuiltUI and development team. 
-```
+Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-## License
+## 🛠️ Built With
+- React JS
+- Vite
 
- - Design and Code is Copyright &copy; <a href="https://prebuiltui.com/" target="_blank">PrebuiltUI</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+## 👤 Customized By
+**Zakaria Naidja**
+- GitHub: [@zekrou](https://github.com/zekrou)
+- Email: zakaria.naidja@univ-constantine2.dz
+
+## 📄 License
+- Design and Code is Copyright © [PrebuiltUI](https://prebuiltui.com/)
+- Licensed under [MIT]
+- Distributed by [ThemeWagon](https://themewagon.com)" > README.md && git add README.md && git commit -m "update README with original license" && git push
